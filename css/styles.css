@@ -275,13 +275,15 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #ffffff;
+  min-height: 70px;
+  padding: 27px;
 
   margin: 0%;
 }
 .label {
   background-color: rgba(47, 48, 58, 0.8);
   width: 100%;
-  min-height: 70px;
+  /* min-height: 70px; */
   bottom: 0;
 
   display: flex;
